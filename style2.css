@@ -1,0 +1,53 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+}
+nav{
+    background-color:#149cdc ;
+
+}
+nav a {
+    color: #be2789;
+    padding: 15px 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+nav a:hover{
+    background-color: aquamarine;
+    color: blue;
+
+}
+nav a:first-child{
+    background-color:#F3f827 ;
+    color: aquamarine;
+
+}
+#banner{}
+.box {
+    width: 100%;
+    height: 200px;
+}
+.box img{
+    width: 50%;
+    height: 200px;
+}
+.content{
+    padding: 50px;
+
+}
+.content h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding: left 0%;
+.content p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 2%;
+        padding-left: 50%;
+        
+}

@@ -1,0 +1,45 @@
+header{
+h1{
+    text-align: center;
+    margin-top: 20%;
+    color: rgb(233, 230, 226);
+    font: size 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}}
+header{
+    text-align: center;
+    color: rgb(190, 24, 24);
+    
+    background-color: rgb(130, 130, 216);
+
+    font-size: large;
+    
+}
+nav{
+    padding-top: 20%;
+    background-color: antiquewhite;
+    height: 100px;
+    color: brown;
+    text-align: center;
+
+}
+section{
+    background-color: blueviolet;
+    height: 500px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(21, 214, 214);
+    height: 50px;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    border-radius: 5%;
+
+}
+button:hover{
+    color: black;
+    cursor: pointer;
+    
+}
